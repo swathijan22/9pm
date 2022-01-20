@@ -1,0 +1,37 @@
+[33mcommit 4d7b5c4802cda25d9cce9059decf21d1c219bff8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:48:25 2022 +0000
+
+    hi this is reverting new
+    
+    This reverts commit 579a69a629108d96619f5fb35ea5d6a9936c4c4c.
+
+[33mcommit fcdd0885b1ba20a4337d4ba66b40efe9d8d8a2b8[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:46:13 2022 +0000
+
+    commit 6
+
+[33mcommit 579a69a629108d96619f5fb35ea5d6a9936c4c4c[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:44:54 2022 +0000
+
+    commitungh5
+
+[33mcommit ad80db9c273fd80031d4db25c715385f3f495f38[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:37:29 2022 +0000
+
+    commting 3
+
+[33mcommit b7e216fc4213fd05ae545a47f2eb5ec5aa741dad[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:33:02 2022 +0000
+
+    commiting for ignorefile
+
+[33mcommit da147a97582ab03ea3478fa1da4871310a1a6ec8[m
+Author: swathi <swathichintam2021@gmail.com>
+Date:   Thu Jan 20 11:30:10 2022 +0000
+
+    commting for first case
